@@ -1,4 +1,6 @@
 Hi everyone, this is my implementation of the JetBrains Academy project Account Service, stage 7/7.
+<br>Among challenges and fun in this project, I can mention  the Spring Security module, the basics of user authentication and authorization,  how to register security events, and get acquainted with various requirements, such as modern information security standards for web applications.
+<br>This was the requirements of the project: 
 
 
 ![image](https://github.com/user-attachments/assets/81b1dc16-cf26-49a4-ba7e-f4025e884562)
